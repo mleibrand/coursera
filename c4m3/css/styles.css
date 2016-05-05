@@ -38,9 +38,12 @@ h2 {
 h3 {
 	margin-top: 0;
 }
-.menu-text {
-	background-color: #FFFF9D;
-	height: 1000px;
+.menu-section {
 	margin: 15px 0 15px 0;
+	
+}
+.menu-text {
 	padding: 15px 15px 15px 15px;
+	overflow: hidden;
+	background-color: #FFFF9D;
 }
